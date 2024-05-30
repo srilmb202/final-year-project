@@ -1,6 +1,6 @@
 # final-year-project
 <br>
- Title : Detection of Marine Algae distributions using Satellite Imagery <br><br>
+ Title : Detection of Marine Algae Distributions using Satellite Imagery <br><br>
  Abstract : <br>
  This project employs Landsat 8 satellite data and machine learning techniques to predict seaweed(Marine Algae) distribution in two regions around India over a span of five 
  years. Utilizing Earth Explorer's Bands 4 (Red), Band 5 (Near Infrared), and Band 6 (Short wave Infrared), the focus lies on extracting crucial indices such as NDVI, FAI, and 
