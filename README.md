@@ -2,11 +2,11 @@
 <br>
  Title : Detection of Marine Algae Distributions using Satellite Imagery <br><br>
  Abstract : <br>
- This project employs Landsat 8 satellite data and machine learning techniques to predict seaweed(Marine Algae) distribution in two regions around India over a span of five 
+ This project employs Landsat 8 satellite data and machine learning techniques to predict seaweed(Marine Algae) occurrences in two regions around India over a span of five 
  years. Utilizing Earth Explorer's Bands 4 (Red), Band 5 (Near Infrared), and Band 6 (Short wave Infrared), the focus lies on extracting crucial indices such as NDVI, FAI, and 
  SEI. The supervised learning model, trained and validated on this extensive dataset, reveals intricate temporal patterns, showcasing distinct seasonal variations in seaweed 
  activity. Environmental factors influencing seaweed growth are considered, enhancing our ability to predict future trends and anticipate potential ecological shifts. The study 
- pioneers an integrated approach, seamlessly combining satellite imagery, advanced image processing, and machine learning techniques, providing valuable predictive insights, and 
+ pioneers an integrated approach, seamlessly combining satellite imagery, advanced image processing, providing valuable predictive insights, and 
  fostering a deeper understanding of the seaweed growth dynamics. These insights gained contribute significantly to the broader field of marine ecology, providing a holistic 
  intuition of temporal trends and influencing factors in seaweed abundance across the specified regions named Dwaraka and Vijaydurg.
  <br><br>
@@ -19,8 +19,9 @@
  Implementation:<br>
   1. Data Collection using Earth Explorer  <br>
   2. Image processing using QGIS Software  <br>
-  3. Data Feeding for Model Training  <br>
-  4. Evaluating Model Performance  <br>
+  3. Labelling Data <br>
+  4. Data Feeding for Model Training  <br>
+  5. Evaluating Model Performance  <br>
  <br>
 
 
